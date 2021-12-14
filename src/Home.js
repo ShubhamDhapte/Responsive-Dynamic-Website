@@ -19,8 +19,6 @@ const Home = () => {
       <Services />
       <Contact />
       <Footer />
-      <LoginForm/>
-      <RegistrationForm/>
     </>
   );
 };
